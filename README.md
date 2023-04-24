@@ -3,7 +3,7 @@ laetdata/README.md 👋
 <div style="display: flex;
     justify-content: space-between;">
   <div> 
-    <img align="left" alt="Laetitia image" width="25%" src="https://github.com/laetdata/laetdata/blob/main/img/couverture.png" />
+    <img align="left" alt="Laetitia image" width="25%" src="https://github.com/laetdata/laetdata/blob/main/img/couv_noir_blanc.png" />
   </div>
   <div>
     <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=laetdata&show_icons=true&theme=radical" alt="Laetitia's github stats" /> </p>
