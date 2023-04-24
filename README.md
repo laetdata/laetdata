@@ -32,7 +32,7 @@ laetdata/README.md 👋
 <img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />        <img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Sklearn" width="60px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/Sklearn.png" style="padding-right:10px;" />
+<img Align="left" alt="Sklearn" width="60px" src="https://github.com/laetdata/laetdata/blob/main/tools/Sklearn.png" style="padding-right:10px;" />
 <img Align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <br/>                                                                                                                                            
