@@ -1,5 +1,15 @@
 laetdata/README.md 👋
 
+<div style="display: flex;
+    justify-content: space-between;">
+  <div> 
+    <img align="left" alt="Laetitia image" width="25%" src="https://github.com/laetdata/leatdata/tree/main/img/couverture.jpg" />
+  </div>
+  <div>
+    <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=laetdata&show_icons=true&theme=radical" alt="Laetitia's github stats" /> </p>
+  </div>
+</div>
+
 
 <!--
 **laetdata/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
