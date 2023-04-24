@@ -11,7 +11,7 @@ laetdata/README.md 👋
 </div>
 
 <div>
-     <a href="[https://www.linkedin.com/in/alhassaneahmed/](https://www.linkedin.com/in/laetitia-mayombo-bouanga-data-scientist-python/)" target="_blank" rel="noopener noreferrer" > 
+     <a href="[https://www.linkedin.com/in/laetitia-mayombo-bouanga-data-scientist-python/)]" target="_blank" rel="noopener noreferrer" > 
       <img align="left" alt=LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>     
 </div>
 <br />
