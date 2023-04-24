@@ -15,6 +15,16 @@ laetdata/README.md 👋
       <img align="left" alt=LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>     
 </div>
 <br />
+                                                                                                                                             
+ ---
+                                                                                                                                           
+**💥Data Scientist💥** <br>
+<br>
+✔ Passionné par la data <br>
+✔ Curieuse - Motivée - Autonome et organisée - Ouverte d'esprit <br>
+✔ Familière avec le cloud (AWS) <br>
+
+---                                                                                                                                            
 
 <!--
 **laetdata/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
