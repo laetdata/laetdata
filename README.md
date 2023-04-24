@@ -44,9 +44,23 @@ laetdata/README.md 👋
 **Outils de visualisation/tableau de bord**
 
 <img Align="left" alt="Jupyter" width="40px" src="./tools/Matplotlib.png" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="44px" src="./tools/Seaborn.svg" style="padding-right:10px;" />
+<img Align="left" alt="Jupyter" width="44px" src="./tools/Seaborn.png" style="padding-right:10px;" />
 
 <br/>
+                                                                                                  
+**Autres outils**
+
+<img Align="left" alt="Spark" width="55px" src="https://github.com/laetdata/laetdata/blob/main/tools/Spark.png" style="padding-right:10px;" />
+<img Align="left" alt="Streamlit" width="50px" src="https://github.com/laetdata/laetdata/blob/main/tools/Streamlit.png" style="padding-right:10px;" />
+<img Align="left" alt="Vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Canva" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg' style="padding-right:10px;" />
+<img Align="left" alt="Slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
+
+</div>
+
+
+
+<br>
 
 <!--
 **laetdata/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
