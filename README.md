@@ -27,7 +27,7 @@ laetdata/README.md 👋
 
 ---  
                                                                                                                                              
- **Favorite data processing tools**
+ **Outils de traitement de données**
 <div Align="left">
 <img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />        <img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -35,7 +35,18 @@ laetdata/README.md 👋
 <img Align="left" alt="Sklearn" width="60px" src="https://github.com/laetdata/laetdata/blob/main/tools/Sklearn.png" style="padding-right:10px;" />
 <img Align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
-<br/>                                                                                                                                            
+<br/>
+
+<br>
+<br>
+<br>
+
+**Outils de visualisation/tableau de bord**
+
+<img Align="left" alt="Jupyter" width="40px" src="./tools/Matplotlib.png" style="padding-right:10px;" />
+<img Align="left" alt="Jupyter" width="44px" src="./tools/Seaborn.svg" style="padding-right:10px;" />
+
+<br/>
 
 <!--
 **laetdata/README.md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
