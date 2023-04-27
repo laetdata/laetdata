@@ -6,7 +6,8 @@ laetdata/README.md 👋
     <img align="left" alt="Laetitia image" width="25%" src="https://github.com/laetdata/laetdata/blob/main/img/couv_noir_blanc.png" />
   </div>
   <div>
-    <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=laetdata&show_icons=true&theme=radical" alt="Laetitia's github stats" /> </p>
+    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a> 
+    <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=laetdata&show_icons=true&theme=radical" alt="Laetitia's github stats" /></p>
   </div>
 </div>
 
