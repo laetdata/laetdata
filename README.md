@@ -21,7 +21,7 @@ laetdata/README.md 👋
                                                                                                                                            
 **✨Data Scientist✨** <br>
 <br>
-✔ Passionné par la data <br>
+✔ Passionnée par la data <br>
 ✔ Curieuse - Motivée - Autonome et organisée - Ouverte d'esprit <br>
 ✔ Familière avec le cloud (AWS) <br>
 
